@@ -28,3 +28,9 @@ _Esto es cursiva_
 ```
 <h1>Hola Mundo</h1>
 ```
+
+## Receta del ceviche
+
+1. Pescado
+2. Limon
+3. Cebolla
